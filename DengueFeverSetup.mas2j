@@ -1,0 +1,13 @@
+/* Jason Project */
+
+MAS test {
+
+    infrastructure: Centralised
+
+    environment: DengueFeverEnvironment
+
+    agents:
+	  person    #5;
+      inspector #5;
+      mosquito  #5;
+}
