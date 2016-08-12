@@ -1,4 +1,3 @@
-
 *.class
-
+bin/*
 bin/build.xml
